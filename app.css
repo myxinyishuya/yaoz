@@ -1,0 +1,43 @@
+/*
+ * 2015.12.29
+ * created by qyaozhen
+ */
+html body{
+    margin: 0;
+    padding: 0;
+   	background-color: #fff5d1;
+   	color: #070000;
+}
+
+img{
+	display: block;
+	width: 100%;
+}
+
+h4{
+	color: #da0027;
+}
+
+h5{
+	color: #232323;
+}
+.content{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+
+.content2{
+	
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+}
+.group-p{
+	margin-bottom: 5px;
+	
+}
+
+.ipt{
+	margin-bottom: 15px;
+}
